@@ -1,0 +1,21 @@
+{
+  "name": "design-system",
+  "interface": {
+    "displayName": "Design System"
+  },
+  "plugins": [
+    {
+      "name": "design-system",
+      "description": "Creates, audits, and evolves accessible design systems with validated design tokens and implementation-ready specifications.",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

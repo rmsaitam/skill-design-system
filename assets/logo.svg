@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-label="Design System">
+  <rect width="800" height="240" rx="32" fill="#1D4ED8"/>
+  <rect x="56" y="48" width="68" height="68" rx="12" fill="#FFFFFF"/>
+  <rect x="152" y="48" width="68" height="68" rx="12" fill="#BFDBFE"/>
+  <rect x="104" y="144" width="68" height="68" rx="12" fill="#FFFFFF"/>
+  <path d="M90 116v28h144v-28M138 144v0" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+  <text x="270" y="116" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700">Design System</text>
+  <text x="272" y="158" fill="#DBEAFE" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">Accessible tokens, components, and foundations</text>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System"
+  short_description: "Create, audit, and evolve accessible design systems"
+  default_prompt: "Use $design-system to create or audit this product's design system."

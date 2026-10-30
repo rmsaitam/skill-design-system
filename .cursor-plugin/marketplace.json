@@ -1,0 +1,16 @@
+{
+  "name": "design-system",
+  "owner": {
+    "name": "Reginaldo (rmsaitam)"
+  },
+  "metadata": {
+    "description": "Design System skill for AI coding agents."
+  },
+  "plugins": [
+    {
+      "name": "design-system",
+      "source": ".",
+      "description": "Creates, audits, and evolves accessible design systems with validated design tokens and implementation-ready specifications."
+    }
+  ]
+}

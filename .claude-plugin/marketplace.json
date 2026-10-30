@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "design-system",
+  "description": "Design System skill for AI coding agents.",
+  "owner": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-design-system"
+  },
+  "plugins": [
+    {
+      "name": "design-system",
+      "description": "Creates, audits, and evolves accessible design systems with validated design tokens and implementation-ready specifications.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

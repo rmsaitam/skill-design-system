@@ -1,0 +1,25 @@
+{
+  "name": "design-system",
+  "version": "0.2.0",
+  "description": "Creates, audits, and evolves accessible design systems with validated design tokens and implementation-ready specifications.",
+  "author": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-design-system"
+  },
+  "homepage": "https://github.com/rmsaitam/skill-design-system",
+  "repository": "https://github.com/rmsaitam/skill-design-system",
+  "license": "MIT",
+  "keywords": [
+    "design-system",
+    "design-tokens",
+    "accessibility",
+    "wcag",
+    "component-library",
+    "responsive-design",
+    "theming",
+    "ui"
+  ],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "logo": "assets/logo.svg"
+}

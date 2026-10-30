@@ -1,0 +1,45 @@
+{
+  "name": "design-system",
+  "version": "0.2.0",
+  "description": "Creates, audits, and evolves accessible design systems with validated design tokens and implementation-ready specifications.",
+  "author": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-design-system"
+  },
+  "homepage": "https://github.com/rmsaitam/skill-design-system",
+  "repository": "https://github.com/rmsaitam/skill-design-system",
+  "license": "MIT",
+  "keywords": [
+    "design-system",
+    "design-tokens",
+    "accessibility",
+    "wcag",
+    "component-library",
+    "responsive-design",
+    "theming",
+    "ui"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design System",
+    "shortDescription": "Create, audit, and evolve accessible design systems",
+    "longDescription": "Run a staged design-system engagement: define token architecture, scales, accessibility, responsive layouts, and component specifications. Produces a validated DESIGN-SYSTEM.md and design.json with exportable tokens.",
+    "developerName": "Reginaldo (rmsaitam)",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/rmsaitam/skill-design-system",
+    "defaultPrompt": [
+      "Create a design system and produce DESIGN-SYSTEM.md and design.json",
+      "Audit my design system for accessibility, token drift, and responsive layout",
+      "Validate my design system artifacts"
+    ],
+    "brandColor": "#1D4ED8",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg",
+    "screenshots": []
+  }
+}
